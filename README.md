@@ -11,4 +11,12 @@
 * **Weighted Ensembling** was used to get the best out of both the models.
 * The captcha image was preprocessed using OpenCV library in python to remove noise, separate characters, etc and then each character was individually fed into the Neural Network for prediction.
 * The final ensembled model was able to identify captchas even with a noisy background, dark background etc.
+* These were some sample captchas which the model was sucessfully able to predict.
+<p align="center">
+ <img  width="350" height="400" src="https://github.com/NiranthS/Handwritten-Captcha-detector/blob/master/test002.jpeg"><br>
+</p>
+
+<p align="center">
+ <img  width="350" height="400" src=""><br>
+</p>
 
